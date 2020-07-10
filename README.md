@@ -47,7 +47,6 @@ Desenvolvimento de aplicações completas, incluindo frontend Web com React e ba
 * CSS
 * JavaScript
 ### TECNOLOGIAS/FERRAMENTAS
-* Terminal
 * Git
 * BrowserDevTools
 * Vanilla Javascript
